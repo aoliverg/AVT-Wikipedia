@@ -20,7 +20,7 @@ python3 createToTranslate.py Endocrinology 2 Featured,Good,Regular es 5 5000 tot
 
 Will create the list of Englis Wikipedia pages of Endocrinology (and 2 levels under it) untranslated into Spanish, that are already in 5 other languages with a minimum length of 5000 characters. The pages to translate will be stored in the file totranslate-endocrinology-eng-spa.txt 
 
-# 2nd step: Download the text of the selected articles
+## 2nd step: Download the text of the selected articles
 
 We create a directory to store the files:
 
@@ -37,7 +37,7 @@ TITLE: 5α-Reductase 2 deficiency
 TITLE: Congenital hypothyroidism
 ...
 
-# 3rd step: Crete the script for tikal
+## 3rd step: Crete the script for tikal
 
 For this step, tikal, one component of the Okapi Tools project should be installed in the system. To download and install tikal follow these steps:
 
