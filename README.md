@@ -62,3 +62,7 @@ And run the script:
 ./processTRAD.sh
 
 The XLIFF files will be created in the same directory.
+
+To create the script for Postedition projects the script createScriptTikal-PED.py. The connection data to a ModernMT server should be edited in the script.
+
+
